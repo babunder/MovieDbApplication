@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+    <string name="lbl_no_record_found">No records found !!</string>
+</resources>
