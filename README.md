@@ -35,10 +35,12 @@ Include the library
     implementation 'com.android.support:recyclerview-v7:26.1.0'
     
  (B) Add permissions to manifest
+ 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     
  (C) Features
+ 
     User see the list of popular movies.
     Get the details of each movies.
     
