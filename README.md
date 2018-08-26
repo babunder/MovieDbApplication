@@ -47,7 +47,8 @@ Include the library
  (D) Screen-shots
  
  1) Popular Movies list:
- ![alt text](https://user-images.githubusercontent.com/42719144/44632212-7f40b080-a994-11e8-9991-b697c9d5d854.jpg)
+ 
+  ![alt text](https://user-images.githubusercontent.com/42719144/44632212-7f40b080-a994-11e8-9991-b697c9d5d854.jpg)
  
  2) Favorite movie list
  
@@ -55,7 +56,7 @@ Include the library
   
  3) Movie details screen
  
- ![alt text](https://user-images.githubusercontent.com/42719144/44632246-ec544600-a994-11e8-8143-c331db7ce048.jpg)
+  ![alt text](https://user-images.githubusercontent.com/42719144/44632270-40f7c100-a995-11e8-9491-e948781570df.jpg)
  
  
  
